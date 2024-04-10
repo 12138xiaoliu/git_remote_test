@@ -2,3 +2,4 @@ this is the first file in this study!
 thi is the second modify!
 加点中文呀
 网站上加点
+使用git status查看文件状态
