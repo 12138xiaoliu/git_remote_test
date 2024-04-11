@@ -3,3 +3,4 @@ thi is the second modify!
 加点中文呀
 网站上加点
 使用git status查看文件状态
+修改1.txt文件并在gitdesktop上进行提交
